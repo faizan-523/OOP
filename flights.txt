@@ -1,4 +1,5 @@
-3
+4
 1 kahuta 8
 2 islamabad 20
 7 lahore 19
+3 Karachi 9
